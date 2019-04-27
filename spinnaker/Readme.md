@@ -1,1 +1,0 @@
-Spinnaker reference guide
